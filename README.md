@@ -1,3 +1,29 @@
+# AutoAgent
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AutoAgent：全自动化、零代码的 LLM Agent 框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <a name="readme-top"></a>
 
 <div align="center">
